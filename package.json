@@ -9,7 +9,8 @@
   "scripts": {
     "lint": "eslint src/**/*.js",
     "build": "webpack",
-    "start": "yarn lint && webpack-dev-server"
+    "dev": "yarn lint && webpack-dev-server",
+    "start": "yarn build && node server.js"
   },
   "dependencies": {
     "babel-core": "^6.26.0",

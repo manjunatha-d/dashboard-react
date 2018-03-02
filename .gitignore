@@ -1,1 +1,10 @@
 node_modules/
+
+# build files
+public/bundle.js
+
+# Erro logs
+yarn-error.log
+
+# ingore yarn.lock file: NOT ADVISED FOR APPS WITH MULTIPLE COLLABORATORS
+yarn.lock
