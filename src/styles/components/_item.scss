@@ -1,0 +1,21 @@
+@import '../base/variables';
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-height: 20vh;
+  background-color: $dark-gray;
+  color: $off-white;
+}
+
+.title {
+  font-size: 4.8rem;
+  text-decoration: underline;
+}
+
+.subtitle {
+  font-size: 2rem;
+  margin: 0;
+}
