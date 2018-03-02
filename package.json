@@ -1,9 +1,9 @@
 {
-  "name": "react-boilerplate",
+  "name": "dashboard-react",
   "version": "1.0.0",
-  "description": "A minimalistic boilerplate for quickly building a react app. Includes basic configuration for webpack, babel, and eslint. Supports SCSS for styles.",
+  "description": "A simple dashboard template built with React, SCSS, and Font Awesome.",
   "main": "index.js",
-  "repository": "https://github.com/kalabhairava/react-boilerplate.git",
+  "repository": "https://github.com/kalabhairava/dashboard-react.git",
   "author": "Manjunatha D",
   "license": "MIT",
   "scripts": {
